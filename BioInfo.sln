@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BioInfo", "BioInfo\BioInfo.csproj", "{96928946-F119-4BB1-8C58-4034B2CDA519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96928946-F119-4BB1-8C58-4034B2CDA519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96928946-F119-4BB1-8C58-4034B2CDA519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96928946-F119-4BB1-8C58-4034B2CDA519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96928946-F119-4BB1-8C58-4034B2CDA519}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
